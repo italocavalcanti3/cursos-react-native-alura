@@ -1,2 +1,4 @@
 # org-cesta
-Primeiro curso de React Native da Alura
+
+Início do projeto de cesta de compras.
+Projeto do primeiro curso de React Native da Alura.
